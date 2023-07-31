@@ -1,0 +1,15 @@
+Course title: CompTIA Project+ (Exam PK0-004)
+Part Number: 095016
+
+The Blank Forms and Templates folder contains six files for post-class use. These Word and Excel documents are provided to assist you in creating customized project management documents. These files are intended as a helpful tool for your own use. Since project management documents are tailored to fit each organization, these documents are simply provided as a potential starting point, compliments of Logical Operations.
+
+The files included are: 
+* Change Control Form Template.docx
+* Project Charter Template.docx.
+* Project Schedule Template.xlsx
+* Project Scope Statement Template.docx
+* SOW Template.docx
+* Stakeholder Register Template.docx
+
+
+
